@@ -1,7 +1,7 @@
 package com.michael.offer;
 
-import com.pop900.algorithm.fundamenal.Queue;
-import com.pop900.algorithm.fundamenal.Stack;
+import com.michael.algorithm.fundamenal.Queue;
+import com.michael.algorithm.fundamenal.Stack;
 
 /**
  * Created by michael on 17-10-8.

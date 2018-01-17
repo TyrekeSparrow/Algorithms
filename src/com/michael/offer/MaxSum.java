@@ -1,6 +1,6 @@
 package com.michael.offer;
 
-import com.pop900.algorithm.fundamenal.Stack;
+import com.michael.algorithm.fundamenal.Stack;
 
 public class MaxSum {
     public static void main(String[] args) {

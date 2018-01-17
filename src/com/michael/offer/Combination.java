@@ -1,6 +1,6 @@
 package com.michael.offer;
 
-import com.pop900.algorithm.fundamenal.Queue;
+import com.michael.algorithm.fundamenal.Queue;
 
 public class Combination {
     public static void main(String[] args) {

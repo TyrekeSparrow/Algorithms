@@ -1,6 +1,6 @@
 package com.michael.offer;
 
-import com.pop900.algorithm.fundamenal.Queue;
+import com.michael.algorithm.fundamenal.Queue;
 
 import java.util.ArrayList;
 import java.util.HashSet;

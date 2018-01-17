@@ -1,13 +1,11 @@
 package com.michael.offer;
 
-import com.pop900.algorithm.fundamenal.Queue;
-import com.pop900.algorithm.fundamenal.Stack;
+import com.michael.algorithm.fundamenal.Queue;
 import com.michael.offer.Tree.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.Vector;
 
 public class PathValue {
     public static void main(String[] args) {

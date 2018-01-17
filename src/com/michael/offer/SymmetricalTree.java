@@ -1,7 +1,7 @@
 package com.michael.offer;
 
 import com.michael.offer.Tree.TreeNode;
-import com.pop900.algorithm.fundamenal.Queue;
+import com.michael.algorithm.fundamenal.Queue;
 
 /**
  * Created by michael on 17-11-25.
